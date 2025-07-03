@@ -1,1 +1,1 @@
-"# ehotz1.github.io" 
+Landing page - redirect to ASP.NET Core home page.
